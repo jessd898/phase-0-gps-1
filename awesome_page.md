@@ -3,6 +3,6 @@
 `
 This is code
 `
-![Screenshot](~/desktop/devbootcamp/phase-0-gps-1/work-together.png)
+![Screenshot](./work-together.png)
 
 Non conflict!
